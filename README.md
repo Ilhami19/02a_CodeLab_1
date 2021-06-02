@@ -1,4 +1,4 @@
-# 02a_CodeLab-1
+# 02a_CodeLab 1
 
 
 - Legen Sie in Eclipse ein Java-Projekt an.
