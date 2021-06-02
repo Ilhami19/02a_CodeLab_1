@@ -2,7 +2,7 @@
 
 - Legen Sie in VS Code ein Java-Projekt an.
 - Erzeugen Sie zwei Klassen : **App & Konto**
-- Legen Sie in Start eine main()-Methode an
+- Legen Sie in App eine main()-Methode an
 - Legen Sie in **Konto** eine int Variable **kontostand** mit dem Anfangswert 10000 an
 - Erzeugen Sie 3 Instanzen (Objekte) von Konto - **konto1/konto2/konto3**
 - Geben Sie aus allen 3 Objekten den Anfangs-Kontostand in die Konsole aus
